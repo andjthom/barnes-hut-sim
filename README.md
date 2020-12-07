@@ -1,5 +1,5 @@
 # Barnes Hut Simulation
-An n-body simulation using the Barnes-Hut algorithm.
+A gravitational N-body simulation using the Barnes-Hut algorithm.
 
 ## Building
 To build both the simulation and viewer:
